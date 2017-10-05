@@ -3,11 +3,11 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email: zourenyuan@gmail.com
-description: A simple and awesome blog theme powered by jekyll.
-url: https://renyuanz.github.io/leonids # the base hostname & protocol for your site
-keywords: ["Programming", "PHP", "Ruby"]
+title: Gosia - gpks
+email: meksionek@gmail.com
+description: Ruby programmer's blog.
+url: https://gpks.github.io # the base hostname & protocol for your site
+keywords: ["Programming", "Ruby"]
 
 #
 ###################################
@@ -33,26 +33,26 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "PHP & Ruby Developer"
-  bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
-  email: zourenyuan@gmail.com
-  disqus-shortname: renyuanzblog
-  twitter: renyuan814 #username
+  name: Gosia
+  avatar: #
+  job: "Ruby Developer"
+  bio: "A backend developer from Warsaw."
+  email: meksionek@gmail.com
+  disqus-shortname: disqus_BDZOEj8e11
+  twitter: gosiaczu #username
   facebook: #username
   google:
     plus: #username
-    analytics: UA-62251910-2
+    analytics: UA-74772439-1
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: renyuanz #username
+  github: gpks #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: renyuan-zou-69b7038a #username
+  linkedin:  #username
   xing: #username
-  instagram: #username
+  instagram: gpks
   lastfm: #username
   tumblr: #username
   pinterest: #username

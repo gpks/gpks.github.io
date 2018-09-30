@@ -2,7 +2,7 @@
 layout: post
 title: Recycle ideas - how to use cool ideas in a legacy project
 excerpt: "How to use cool ideas in a legacy project - take the most of blogpost, conference talks and use it on your advantage"
-tags: [code, architecture, methods]
+tags: [code, architecture, methods, ruby, ruby on rails, rails]
 modified: 2018-09-24
 comments: true
 ---
